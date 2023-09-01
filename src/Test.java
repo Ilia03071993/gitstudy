@@ -1,8 +1,8 @@
 public class Test {
     public static void main(String[] args) {
-        int n1 = 200;
-        int n2 = 100;
-        result(n1,n2);
+        int num1 = 300;
+        int num2 = 200;
+        result(num1,num2);
     }
     public static int result(int num, int num2) {
         return num * num2;
