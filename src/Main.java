@@ -1,9 +1,11 @@
 import java.util.HashMap;
 import java.util.Map;
+import java.util.NavigableMap;
+import java.util.TreeMap;
 
 public class Main {
     public static void main(String[] args) {
-        Map<String, Integer> map = new HashMap<>();
+        Map<String, Integer> m =new TreeMap<>();
     }
 
     static void put(Map<String, Integer> map) {

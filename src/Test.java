@@ -1,10 +1,10 @@
 public class Test {
     public static void main(String[] args) {
-        int num1 = 300;
-        int num2 = 400;
-        division(num1,num2);
+        int n1 = 200;
+        int n2 = 100;
+        result(n1,n2);
     }
-    public static int division(int num, int num2) {
-        return num / num2;
+    public static int result(int num, int num2) {
+        return num * num2;
     }
 }
