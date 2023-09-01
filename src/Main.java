@@ -8,9 +8,6 @@ public class Main {
         System.out.println("problem child");
         int num1 = 100; //1
         int num2 = 300; //2
-        result(num1 , num2);
-    }
-    public static int result (int num1, int num2) {
-       return num2 + num1;
+     
     }
 }
