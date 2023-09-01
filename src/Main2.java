@@ -3,12 +3,12 @@ import java.util.Map;
 
 public class Main2 {
     public static void main(String[] args) {
-       Map<Integer,String> map  =new HashMap<>();
-       add(map);
+       Map<Integer,String> m  =new HashMap<>();
+       add(m);
     }
     public static void add (Map<Integer,String>map) {
-        map.put(1,"First");
-        map.put(2,"Second");
-        map.put(3,"Third");
+        map.put(3,"First");
+        map.put(4,"Second");
+        map.put(1,"Third");
     }
 }
