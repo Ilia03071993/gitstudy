@@ -11,4 +11,5 @@ public class Main2 {
         map.put("Second",2);
         map.put("Third",3);
     }
+
 }
