@@ -3,8 +3,8 @@ import java.util.Map;
 
 public class Main2 {
     public static void main(String[] args) {
-       Map<String,Integer> map1  =new HashMap<>();
-       add(map1);
+       Map<String,Integer> map  =new HashMap<>();
+       add(map);
     }
     public static void add (Map<String,Integer>map) {
         map.put("First",1);
