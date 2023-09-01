@@ -9,5 +9,4 @@ public class Main {
         int num1 = 100; //1
         int num2 = 300; //2
     }
-
 }
